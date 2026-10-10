@@ -4,3 +4,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}.reveal{opacity:1;transform:none}}
 /* Keep the decorative orbit and tilted photo edges inside narrow screens. */
 body{overflow-x:hidden}
+@media(max-width:800px){.hero{grid-template-columns:minmax(0,1fr)}.hero-copy{min-width:0;width:100%}.hero-art{min-width:0}}
+@media(max-width:560px){.hero-art{width:350px}.orbit{max-width:100%}.back-card{right:0}.floating-note{right:0}}
