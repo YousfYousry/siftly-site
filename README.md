@@ -17,7 +17,7 @@ Run `python3 -m http.server 8096` in this directory.
 
 ## Assets
 
-App icon from the Siftly app project. Example landscape photographs from Unsplash:
+App icon and glossy feature illustrations from the Siftly app project. App screen captures from `store_screenshots/` showcase smart categories, storage intelligence, and the compression studio. The website palette follows `lib/theme/siftly_theme.dart`: charcoal #0C0E13, electric blue #168BFF, and ice cyan #58CEFF. Example landscape photographs from Unsplash:
 - https://images.unsplash.com/photo-1464822759023-fed622ff2c3b
 - https://images.unsplash.com/photo-1470770841072-f978cf4d019e
 - https://images.unsplash.com/photo-1500530855697-b586d89ba3ee
